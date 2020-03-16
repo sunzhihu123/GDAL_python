@@ -1,0 +1,9 @@
+美语英标 读到  11-12   17-18  23-24   25-26   31-32 37-39
+查看电脑属性  dxdiag
+
+cd\windows\system32    shutdown -s -t 10800    shutdown -a
+
+install.packages('randomForest')
+
+cd d:/Weka-3-8
+java -Xmx1500M -jar weka.jar
